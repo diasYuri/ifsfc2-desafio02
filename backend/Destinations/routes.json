@@ -1,0 +1,37 @@
+{
+  "routes": [
+  {
+    "id": 1,
+    "title": "Primeira",
+    "startPosition": { "lat": -15.82594, "lng": -47.92923 },
+    "endPosition": { "lat": -15.82942, "lng": -47.92765 }
+  },
+  {
+    "id": 2,
+    "title": "Segunda",
+    "startPosition": { "lat": -15.82449, "lng": -47.92756 },
+    "endPosition": { "lat": -15.8276, "lng": -47.92621 }
+  },
+  {
+    "id": 3,
+    "title": "Terceira",
+    "startPosition": { 
+      "lat": -15.82665, 
+      "lng": -47.92867 
+    },
+    "endPosition": { "lat": -15.82636, "lng": -47.92827 }
+  },
+  {
+    "id": 4,
+    "title": "Quarta",
+    "startPosition": { "lat": -15.82749, "lng": -47.92694 },
+    "endPosition": { "lat": -15.82686, "lng": -47.92607 }
+  },
+  {
+    "id": 5,
+    "title": "Quinta",
+    "startPosition": { "lat": -15.82649, "lng": -47.92376 },
+    "endPosition": { "lat": -15.8265, "lng": -47.92369 }
+  }
+]
+}
